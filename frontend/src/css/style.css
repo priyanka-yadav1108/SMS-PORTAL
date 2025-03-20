@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #4C4D4F !important;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+.btn-navy-blue{
+    background-color:#4C4D4F !important;
+    border: #4C4D4F !important;
+    color: #fff;
+}
+
+.btn-navy-blue:hover{
+    color: #fff;
+}
+
+.block{
+    border: 1px solid #ccc;
+    background-color: whitesmoke;
+    padding: 1rem !important;
+    border-radius: 10px;
+}
+
+body{
+    background-image: url('/public/img/bgImg.jpg');
+    background-position: center;
+}
